@@ -28,15 +28,12 @@ Estudante de Engenharia de Software 📖 – USJT
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Caua-Pincelli-Cacchero&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=10" height="160"/>
 </div>
 
 ---
 
-## 🟡 Pac-Man Contribution Graph
 
 <div align="center">
   <picture>
@@ -61,5 +58,11 @@ Estudante de Engenharia de Software 📖 – USJT
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40"/>
   </a>
 </div>
+
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=cobalt"
+  width="100%"
+/>
 
 

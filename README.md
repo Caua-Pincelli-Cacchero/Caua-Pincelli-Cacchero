@@ -28,6 +28,14 @@ Estudante de Engenharia de Software 📖 – USJT
 
 ---
 
+## 📊 Projetos
+- 💰 **Organizador de Despesas** – [API](https://github.com/Caua-Pincelli-Cacchero/Organizador_Despesas) para gestão de despesas pessoais com **PostgreSQL**, incluindo CRUD de usuários e categorias
+- 🚗 **Fipe-Loockup** – [Aplicação CLI](https://github.com/Caua-Pincelli-Cacchero/Fipe-loockup) em **Java** com **Spring Boot** que consulta a Tabela FIPE e retorna valor, código FIPE e ano de veículos
+- ✅ **HabitTrackerCLI** – [Aplicação CLI](https://github.com/Caua-Pincelli-Cacchero/HabitTrackerCLI) em **Java** para rastreamento de hábitos e organização de dados
+- 🤝 **Projeto A3** – [Projeto acadêmico](https://github.com/guilhermeaalves/projeto-A3) desenvolvido em equipe como colaborador
+
+---
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Caua-Pincelli-Cacchero&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=10" height="160"/>
 </div>
@@ -64,5 +72,3 @@ Estudante de Engenharia de Software 📖 – USJT
   src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=cobalt"
   width="100%"
 />
-
-

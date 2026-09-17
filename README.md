@@ -11,11 +11,11 @@ Estudante de Engenharia de Software 📖 – USJT
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img width="12"/>
@@ -28,7 +28,8 @@ Estudante de Engenharia de Software 📖 – USJT
 
 ---
 
-## 📊 Projetos
+## 📊 Projetos e Experimentos
+
 - 💰 **Organizador de Despesas** – [API](https://github.com/Caua-Pincelli-Cacchero/Organizador_Despesas) para gestão de despesas pessoais com **PostgreSQL**, incluindo CRUD de usuários e categorias
 - 🚗 **Fipe-Loockup** – [Aplicação CLI](https://github.com/Caua-Pincelli-Cacchero/Fipe-loockup) em **Java** com **Spring Boot** que consulta a Tabela FIPE e retorna valor, código FIPE e ano de veículos
 - ✅ **HabitTrackerCLI** – [Aplicação CLI](https://github.com/Caua-Pincelli-Cacchero/HabitTrackerCLI) em **Java** para rastreamento de hábitos e organização de dados
